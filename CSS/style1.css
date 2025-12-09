@@ -1,0 +1,19 @@
+.head1{
+	background-color: red;
+	font-family: Arial;
+	padding: 10px;
+}
+
+.head2{
+	background-color: #ebbcd3;
+	font-family: Times New Roman;
+	font-size: 40px;
+	padding: 10px;
+}
+
+.head3{
+	background-color: #ff780a;
+	text-align: center;
+	text-shadow: 3px 3px 3px grey;
+	padding: 10px;
+}
